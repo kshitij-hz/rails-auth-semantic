@@ -14,14 +14,5 @@
  *= require_self
  *= require toastr
  */
-@import "bootstrap-sprockets";
-@import "bootstrap";
-@import 'bootstrap/theme';
+@import "semantic-ui";
 
-.alert-alert {
-  @extend .alert-warning;
-}
-
-.alert-notice {
-  @extend .alert-info;
-}

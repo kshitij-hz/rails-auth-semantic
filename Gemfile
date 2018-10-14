@@ -8,11 +8,12 @@ gem 'rails', '~> 5.2.0'
 # Use mysql as the database for Active Record
 gem 'mysql2', '>= 0.3.18', '< 0.5'
 gem 'devise'
-gem 'bootstrap-sass'
+# gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'jquery-turbolinks'
 gem 'toastr-rails'
 gem "rename"
+gem 'semantic-ui-sass'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets

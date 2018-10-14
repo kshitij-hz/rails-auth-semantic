@@ -14,7 +14,8 @@
 //= require toastr
 //= require jquery.turbolinks
 //= require jquery_ujs
-//= require bootstrap/dropdown
+// Loads all Semantic javascripts
+//= require semantic-ui
 //= require turbolinks
 //= require rails-ujs
 //= require activestorage
@@ -36,4 +37,5 @@ $(document).ready(function() {
     "showMethod": "fadeIn",
     "hideMethod": "fadeOut"
   }
+ 
 });
